@@ -6,7 +6,7 @@
         {
             "label": "build",
             "type": "shell",
-            "command": "D:\\Install\\Anaconda3\\envs\\p36\\python.exe",
+            "command": "D:\\Install\\Anaconda3\\envs\\p35\\python.exe",
             "args": [
                 "main.py"
             ],
